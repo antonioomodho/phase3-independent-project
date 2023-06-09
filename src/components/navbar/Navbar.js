@@ -6,12 +6,19 @@ function Navbar(){
         <nav class="navbar bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand text-light" href="#" >{'PET-STORE'}</a>
+            <button class="btn btn-outline-info ms-1 me-4" id="searchBtn">{'Sign up'}</button>
+                    
                 <ul class="navbar-nav me-auto d-flex flex-row">
-                    <li class="nav-item me-2">
-                        <a class="text-light nav-link" href="#" >PETS</a>
+
+                    <li class="nav-item me-4">
+                        <a class="text-light nav-link " href="#" >DISPLAY-PETS</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="text-light nav-link" href="#" ></a>
+                    
+                    <li class="nav-item me-4">
+                        <a class="text-light nav-link" href="#" >ADD-PETS</a>
+                    </li>
+                    <li class="nav-item me-4">
+                        <a class="text-light nav-link" href="#" >VIEW-SINGLE-PET</a>
                     </li>
                 </ul>
 
