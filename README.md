@@ -25,19 +25,20 @@ Change directory to the repo folder: Open it in Visual Studio Code code . run th
 Application stack and technologies
 This application has been developed using the following technologies:
 
-React Library
-Vercel
-Axios
+- React Library
+- Vercel
+- Axios
 ## Requirements
 Users should be able to register / login to the application.
-A user should be able to add a new pet.
-A user can view all the pets they have added.
-A user should be able to view all the available pets.
-A user should be able to search for a pet through name or breed.
-A user should be able to update details of pets they added.
-A user should be able to remove details of pets they added.
-Users should be NOT able to update or delete pets they have not added.
-In order to use the application, the user must be logged in.
+
+- A user should be able to add a new pet.
+- A user can view all the pets they have added.
+- A user should be able to view all the available pets.
+- A user should be able to search for a pet through name or breed.
+- A user should be able to update details of pets they added.
+- A user should be able to remove details of pets they added.
+- Users should be NOT able to update or delete pets they have not added.
+- In order to use the application, the user must be logged in.
 Application Backend
 
 ##The backend for this application is contained in the following repositor
@@ -45,36 +46,36 @@ Application Backend
 https://github.com/antonioomodho/phase-3-sinatra-react-project.git
 
 ## Author
-{Antonio Omodho} https://github.com/antonioomodho
+[Antonio Omodho] https://github.com/antonioomodho
 
 
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
+### Getting Started with Create React App
+- This project was bootstrapped with Create React App.
 
-Available Scripts
-In the project directory, you can run:
+### Available Scripts
+- In the project directory, you can run:
 
-npm start
-Runs the app in the development mode.
+### npm start
+- Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+- The page will reload when you make changes.
+ You may also see any lint errors in the console.
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+### npm test
+-Launches the test runner in the interactive watch mode.
+-See the section about running tests for more information.
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### npm run build
+- Builds the app for production to the build folder.
+- It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+### npm run eject
 Note: this is a one-way operation. Once you eject, you can't go back!
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
@@ -88,7 +89,7 @@ You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
-Code Splitting
+'''Code Splitting
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 Analyzing the Bundle Size
